@@ -1,0 +1,19 @@
+Python is a high-level programming language.
+Supervised learning uses labelled datasets.
+SQL is used to manage relational databases.
+Complete the project documentation.
+
+Python supports object-oriented programming.
+Regression predicts continuous values.
+Primary keys uniquely identify records.
+Prepare the final presentation.
+
+Lists are mutable in Python.
+Classification predicts categories.
+Foreign keys establish relationships between tables.
+Test the application before submission.
+
+Dictionaries store data in key-value pairs.
+Decision trees are used for classification and regression.
+Normalization reduces data redundancy.
+Submit the project before the deadline.
